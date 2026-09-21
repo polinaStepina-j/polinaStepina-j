@@ -28,7 +28,7 @@ Excel · Word
 ##  Портфолио
 
 ### Python
-
+        
 Анализ данных о продажах автомобилей BMW, очистка данных,
 исследовательский анализ, статистика и визуализация.
 
@@ -83,6 +83,8 @@ Excel · Word
 
 ---
 
-## 📫 Контакты
+## Контакты
 
-[GitHub](https://github.com/polinaStepina-j)
++7 (928) 465 51 40
+pstepina@sfedu.ru
+https://t.me/pollllichka
